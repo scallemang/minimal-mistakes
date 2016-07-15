@@ -10,17 +10,17 @@ locale                   : "en"
 title                    : "SC Allemang"
 title_separator          : "-"
 name                     : "Samuel Allemang"
-description              : "Official fansite of myself."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Official fansite of SC Allemang, professional hand model scout and AA fantasy baseball player."
+url                      : http://scallemang.ca # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "default-screenshot.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
+  provider               : "disqus"# false (default), "disqus", "discourse", "facebook", "google-plus", custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "scallemang"# https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -30,31 +30,32 @@ comments:
     colorscheme          : # "light" (default), "dark"
 
 # SEO Related
-google_site_verification :
+google_site_verification : "-rruPQi5_rCki59-cjnn7FEDcdEfUzJ2xycRpE7zwjk"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "scallemang"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "don-knotts.png"# Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "http://github.com/scallemang"
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-34778953-1"
 
 # Google AdSense
 google_ad_client         :
@@ -63,9 +64,9 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "SC Allemang"
-  avatar           : "linkedin.png"
-  bio              : "sewage generis"
+  name             : "Sam A."
+  avatar           : "don-knotts.png"
+  bio              : "A human chatbot?"
   location         : "Toronto"
   email            :
   uri              :
