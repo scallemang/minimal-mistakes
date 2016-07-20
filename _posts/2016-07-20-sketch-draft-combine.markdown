@@ -5,7 +5,7 @@ layout: sketch
 excerpt: "Top prospect&rsquo;s big day."
 header:
   overlay_image: featured-images/hockey-01.jpg
-  overlay_filter: rgba(0, 0, 0, 0.5)
+  overlay_filter: rgba(13, 71, 161, 0.85)
   caption: "Photo credit: [**Pixabay**](https://pixabay.com/en/ice-hockey-puck-players-game-pass-1084197/)"
 ---
 
