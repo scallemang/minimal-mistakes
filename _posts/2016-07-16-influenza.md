@@ -1,7 +1,7 @@
 ---
 excerpt: "A touching tale of reunion."
-teaser: "featured-images/influenza.jpg"
 header:
+  teaser: "featured-images/influenza.jpg"
   overlay_image: featured-images/influenza.jpg
   overlay_filter: rgba(0, 0, 0, 0.5)
   caption: "Photo credit: [**Pixabay**](https://pixabay.com/en/soldiers-motorcycle-military-502116/)"
