@@ -4,7 +4,7 @@ date: 2016-07-20T13:24:00-04:00
 layout: sketch
 excerpt: "Top prospect&rsquo;s big day."
 header:
-  overlay_image: featured-images/hockey.jpg
+  overlay_image: featured-images/hockey-01.jpg
   overlay_filter: rgba(0, 0, 0, 0.5)
   caption: "Photo credit: [**Pixabay**](https://pixabay.com/en/ice-hockey-puck-players-game-pass-1084197/)"
 ---
