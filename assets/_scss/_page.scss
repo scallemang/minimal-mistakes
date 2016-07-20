@@ -322,3 +322,16 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Layouts
+   ========================================================================== */
+.sketch {
+  h3 {
+    text-align: center;
+  }
+  em {
+    display: block;
+    text-align: center;
+  }
+}
