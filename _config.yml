@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Samuel Allemang"
 description              : "Official fansite of SC Allemang, professional hand model scout and AA fantasy baseball player."
 url                      : http://scallemang.ca # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : ""# the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : "default-screenshot.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -64,9 +64,9 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Sam A."
+  name             : "Sam"
   avatar           : "don-knotts.png"
-  bio              : "A human chatbot?"
+  bio              : ""
   location         : "Toronto"
   email            :
   uri              :
@@ -87,7 +87,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "scallemang"
   vine             :
   weibo            :
   xing             :
@@ -200,6 +200,11 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+collections:
+  darksouls:
+    output: true
+    permalink: /:collection/:path/
+
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -218,4 +223,13 @@ defaults:
       read_time: true
       comments: true
       share: true
+      author_profile: true
       related: true
+  # darksouls
+  - scope:
+      path: ""
+      type: darksouls
+    values:
+      layout: single
+      author_profile: false
+      share: true
