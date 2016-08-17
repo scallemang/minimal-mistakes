@@ -1,5 +1,5 @@
 {% include base_path %}
-{% include group-by-array collection=site.darksouls field="tags" %}
+{% include group-by-array collection=site.data.darksouls.articles field="tags" %}
 
 <div class="sidebar sticky">
 {% for tag in group_names %}

@@ -1,5 +1,14 @@
 # darksouls articles
-darksouls:
+articles:
   - title: "Storytelling in Dark Souls and Skyrim"
     tags: ["Dark Souls","Skyrim","Narrative"]
     link: http://www.forbes.com/sites/erikkain/2012/03/29/storytelling-in-dark-souls-and-skyrim/
+    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+  - title: "Understanding the Sublime Architecture of Bloodborne"
+    tags: ["Bloodborne","Aesthetics","Architecture"]
+    link: https://killscreen.com/articles/understanding-sublime-architecture-bloodborne/
+    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+  - title: "Dark Souls Design Works Translation"
+    tags: ["Dark Souls","Interview","Design"]
+    link: http://peterbarnard1984.tumblr.com/post/74564331274/dark-souls-design-works-translation
+    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."

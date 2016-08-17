@@ -232,3 +232,15 @@ a:hover {
     }
   }
 }
+
+.archive__darksouls {
+  .archive__item-title {
+    margin-top: 0.25em;
+  }
+.archive__subtitle {
+    margin-top: 3.1815em;
+    &:first-of-type {
+      margin-top: 1.414em;
+    }
+  }
+}
