@@ -1,5 +1,6 @@
 ---
 excerpt: "A touching tale of reunion."
+tags: ['c','d']
 header:
   teaser: "featured-images/influenza.jpg"
   overlay_image: featured-images/influenza.jpg
