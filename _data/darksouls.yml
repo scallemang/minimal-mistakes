@@ -1,18 +1,26 @@
 # darksouls articles
 articles:
+  - title: "One night in Skyrim makes a strong man crumble"
+    tags: ["Narrative"]
+    link: hhttp://grantland.com/features/one-night-skyrim-makes-strong-man-crumble/
+    excerpt: "Contains one interesting paragraph on semi-opaque storytelling and the function of NPCs in the Souls games. ⌘/Ctrl+F for 'Dark Souls.'"
+  - title: "What Dark Souls is really all about"
+    tags: ["Dark Souls","Difficulty","Design"]
+    link: http://kotaku.com/5874599/what-dark-souls-is-really-all-about
+    excerpt: "Brief summary forthcoming."
   - title: "Storytelling in Dark Souls and Skyrim"
     tags: ["Dark Souls","Skyrim","Narrative"]
     link: http://www.forbes.com/sites/erikkain/2012/03/29/storytelling-in-dark-souls-and-skyrim/
-    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+    excerpt: "Brief summary forthcoming."
   - title: "Understanding the sublime architecture of Bloodborne"
     tags: ["Bloodborne","Aesthetics","Architecture"]
     link: https://killscreen.com/articles/understanding-sublime-architecture-bloodborne/
-    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+    excerpt: "Brief summary forthcoming."
   - title: "Dark Souls Design Works translation"
     tags: ["Dark Souls","Interview","Design"]
     link: http://peterbarnard1984.tumblr.com/post/74564331274/dark-souls-design-works-translation
-    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+    excerpt: "Brief summary forthcoming."
   - title: "The secrets of Dark Souls lore explained and explored"
     tags: ["Dark Souls", "Narrative"]
     link: http://www.eurogamer.net/articles/2016-04-15-dark-souls-lore-and-how-it-works
-    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt."
+    excerpt: "Brief summary forthcoming."
