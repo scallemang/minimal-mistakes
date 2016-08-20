@@ -7,7 +7,7 @@ permalink: /darksouls/
 ---
 
 {% include base_path %}
-
+<p>Some of my favourite articles about the &lsquo;SoulsBorne&rsquo; series from around the web. Recommendations? sam[at]techsdale[dot]ca.</p>
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
 
 {% for post in site.data.darksouls.articles %}
