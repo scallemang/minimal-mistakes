@@ -11,7 +11,7 @@ title                    : "SC Allemang"
 title_separator          : "-"
 name                     : "Samuel Allemang"
 description              : "Official fansite of SC Allemang, professional hand model scout and AA fantasy baseball player."
-url                      : http://scallemang.ca # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://scallemang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : "default-screenshot.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
